@@ -28,5 +28,5 @@
 >>>implementing PCA without using SVD
 ___
 >**[SVM_perceptron](https://github.com/mahtaz/ML-from-scratch/blob/main/SVM_perceptron/SVM_perceptron.ipynb/)**
->soft margin SVM
->Perceptron
+>>soft margin SVM\
+>>Perceptron
