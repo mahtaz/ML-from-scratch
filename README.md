@@ -17,5 +17,6 @@
 >>k nearest neighbour \
 >>decision tree\
 >>training models and t-test for comparing them
+>>>using k fold validation for evaluation
 ---
 >
