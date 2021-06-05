@@ -20,3 +20,13 @@
 >>>using k fold validation for evaluation
 ---
 >**[PCA kmeans GMM](https://github.com/mahtaz/ML-from-scratch/blob/main/PCA_kmeans_GMM/PCA_kmeans_GMM.ipynb/)**
+>>K-Means\
+>>gaussian mixture model \
+>>t-sne\
+>>PCA
+>>>implementing PCA using SVD\
+>>>implementing PCA without using SVD
+___
+>**[SVM_perceptron](https://github.com/mahtaz/ML-from-scratch/blob/main/SVM_perceptron/SVM_perceptron.ipynb/)**
+>soft margin SVM
+>Perceptron
