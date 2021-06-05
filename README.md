@@ -19,4 +19,4 @@
 >>training models and t-test for comparing them
 >>>using k fold validation for evaluation
 ---
->
+>**[PCA kmeans GMM](https://github.com/mahtaz/ML-from-scratch/blob/main/PCA_kmeans_GMM/PCA_kmeans_GMM.ipynb/)**
