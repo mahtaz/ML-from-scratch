@@ -1,4 +1,21 @@
 # ML-from-scratch
-machin learning
-You can use [this link](https://distill.pub/2016/misread-tsne/) for help!?/n
-[gmm](https://github.com/mahtaz/ML-from-scratch/tree/main/PCA_kmeans_GMM/)
+
+#### Machine Learning  materials and projects for the machine learning course at sharif university of technology
+
+
+
+### **Table of contents**
+
+> **[Ensemble methods](https://github.com/mahtaz/ML-from-scratch/tree/main/Ensemble%20methods/)**
+>>Bagging\
+>>Random Forest\
+>>Boosting : AdaBoost\
+>>Feature Selction
+>>>Filtering : correlation coefficient
+---
+>**[KNN_Decision tree](https://github.com/mahtaz/ML-from-scratch/tree/main/KNN_Decision%20tree/)**
+>>k nearest neighbour \
+>>decision tree\
+>>training models and t-test for comparing them
+---
+>
