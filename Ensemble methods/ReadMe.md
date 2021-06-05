@@ -4,5 +4,5 @@
 *   sklearn
 *   matplotlib
 *   numpy
-*   statistics
+
 
